@@ -12,6 +12,7 @@ router.get("/api/workouts", (req, res) => {
     });
 });
 
+//set Api get route for date range
 router.get("/api/workouts/range", (req, res) => {
   db.Workout.find({})
     .then((dbWorkouts) => {
