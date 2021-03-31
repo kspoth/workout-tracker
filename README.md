@@ -8,18 +8,17 @@ This application allows a user to add the burger of their choice and it will be 
 
 https://powerful-lake-11175.herokuapp.com
 
-![](https://github.com/kspoth/workout-tracker/blob/main/public/images/Screen%20Recording%202021-03-30%20at%206.14.47%20PM.mov)
+![]()
 
 ### Built With
 
 - VS Code
 - CSS
-- Handlebars
-- MySQL
 - Javascript
 - JSON
 - Node JS
 - Heroku
+- MongoDB
 
 <!-- CONTACT -->
 
