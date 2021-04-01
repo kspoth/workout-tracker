@@ -8,6 +8,7 @@ The Workout-Tracker allows a user to add workout information and that data will 
 
 https://powerful-lake-11175.herokuapp.com
 
+## Pictures of Application
 ![](https://github.com/kspoth/workout-tracker/blob/main/public/images/Screen%20Shot%202021-03-31%20at%206.29.01%20PM.png?raw=true)
 
 ![](https://github.com/kspoth/workout-tracker/blob/main/public/images/Screen%20Shot%202021-03-31%20at%206.29.21%20PM.png?raw=true)
